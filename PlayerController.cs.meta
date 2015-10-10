@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: df03c964cfa9c7043ae448bb21fff921
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hatbigsprite: {fileID: 2800000, guid: 21b6a7305d9e0c143bb407e9d083b390, type: 3}
+  - charbasemale: {fileID: 2800000, guid: d40a1b0308acdfb4382283c4eb1a4738, type: 3}
+  - charbasefemale: {fileID: 2800000, guid: 0b7ac166af48b0746bc5b31c962617e8, type: 3}
+  - myFont: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
